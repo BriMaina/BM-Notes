@@ -1,0 +1,1 @@
+gobuster -u http://fakebank.com -w wordlist.txt dir [use the name of the potential target instead of fakebank]- fakebank is just a simulation
